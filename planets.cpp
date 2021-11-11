@@ -1,10 +1,4 @@
 
-/*
- * A simple inaccurate solar system animation.
- *
- * @author: itsGNUlinuxNOTjustLINUX
- * date: 5-28-2016
- */
 #include<windows.h>
 #include <cmath>
 #ifdef __SUN__
